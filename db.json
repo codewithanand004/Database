@@ -1,1 +1,17 @@
-
+[
+  {
+    "id": 1,
+    "Class": "1 A",
+    "Subject": "English"
+  },
+  {
+    "id": 2,
+    "Class": "1 A",
+    "Subject": "Mathematics"
+  },
+  {
+    "id": 3,
+    "Class": "1 A",
+    "Subject": "Science"
+  }
+]
